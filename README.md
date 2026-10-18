@@ -1,3 +1,1 @@
-<p>
-  <a href="https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/">View my portfolio</a>
-</p>
+A responsive personal portfolio website built with HTML and CSS. It features an introduction, about section, skills, selected projects, and contact links. Customize the placeholder text and links in `index.html` with your details.
